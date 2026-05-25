@@ -375,7 +375,7 @@ body.dark-mode .theme-toggle-thumb .toggle-icon-moon {
   overflow: hidden;
   /* gradiente sutil de base (transparente à direita) + imagem da cobra à direita */
   background-color: #1a2a14; /* fallback */
-  background-image: linear-gradient(90deg, rgba(26,42,20,1) 0%, rgba(26,42,20,0.0) 85%), url("cobra sorrindo.png");
+  background-image: linear-gradient(90deg, rgba(26,42,20,1) 0%, rgba(26,42,20,0.0) 85%), url("img/cascavel.png");
   background-blend-mode: normal;
   background-size: auto, contain; /* primeiro: gradiente, segundo: imagem */
   background-position: left center, right center;
@@ -1399,7 +1399,7 @@ body.dark-mode .species-card {
 @media (max-width: 768px) {
   .hero {
     /* imagem ocupa toda a seção, com cabeça da cobra visível na parte superior */
-    background-image: url("cobra sorrindo.png");
+    background-image: url("img/cascavel.png");
     background-size: cover;
     background-position: center 35%;
     background-repeat: no-repeat;

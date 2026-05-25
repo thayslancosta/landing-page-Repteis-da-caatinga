@@ -194,7 +194,7 @@ const speciesData = {
   'Cobras': {
     iucn: 'LC',
     subtitle: 'Serpentes — diversidade peçonhenta e não peçonhenta | Mascote: Píton Albina',
-    img: 'cobra com fundo transparente.png',
+    img: 'img/cobra com fundo transparente.png',
     description: 'As cobras da Caatinga variam desde espécies inofensivas até algumas peçonhentas. Elas desempenham papel essencial no equilíbrio, controlando populações de roedores e outros pequenos animais. Nossa mascote é uma Píton Albina (Python regius), uma cobra real africana com mutação genética que impede a produção de melanina, resultando em sua coloração amarela e branca característica. Apesar de suas origens africanas, as pítons albinas conquistaram o público por seu temperamento dócil e aparência única.',
     habitat: 'Áreas abertas, tocas abandonadas, matas ciliares e entulhos próximos a áreas humanas. Pítons albinas em cativeiro requerem ambientes aquecidos e seguros.',
     diet: 'Roedores, aves, anfíbios e outros répteis, dependendo da espécie. Pítons albinas alimentam-se principalmente de roedores.',
